@@ -15,3 +15,19 @@
 *Admittedly I recently came accross a project on reddit that would use spotify's API to
 generate a playlist based on the current mood of the user. Now my project would be similar
 only that it would generate a playlist based on the sport or type of training of the user*
+
+####TOOLS
+
+1.Spotify API
+
+2.PHP Storm
+
+3.GitHub
+
+4.Probably javascript
+
+5.Time...a lot of time
+
+ 
+
+

@@ -1,10 +1,10 @@
 # Dream-Project
 
-###*This readme contains simple instructions regarding my dream project*
+### *This readme contains simple instructions regarding my dream project*
 
 *Because if you do what you love you will never work another day*
 
-###My dream project is a combination of the things I like to do:
+### My dream project is a combination of the things I like to do:
 
 | MY        | DREAM           | PROJECT  |
 | ------------- |:-------------:| -----:|
